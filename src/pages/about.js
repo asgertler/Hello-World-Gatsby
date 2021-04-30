@@ -1,11 +1,9 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/layout"
 
 export default function About() {
     return (
         <Layout>
-            <Link to="/">Home</Link>
             <h1>About me</h1>
             <p>
                 I'm good enough, I'm smart enough, and gosh darn it, people like me!
